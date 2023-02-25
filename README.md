@@ -1,6 +1,7 @@
 ## Meme Generator using React JS
 
 This is a web application developed using React JS library that allows users to create memes. It fetches data from an external API and uses hooks like useEffect and useState to manage the state of the application.
+<br/>
 <a href=https://damymeister.github.io/memegenerator/>Link to application</a>
 
 ## Features

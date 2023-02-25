@@ -12,6 +12,7 @@ The application has the following features:
 <li>Fetches random images from an external API to use as a background for the meme.</li>
 <li>Allows users to add custom text to the meme.</li>
 </ul>
+
 ## Usage
 
 To use the application, you can navigate to the homepage and click on the "Generate Meme" button. This will fetch a random image from the API and display it on the screen.
